@@ -1,0 +1,60 @@
+baseURL = "https://poisson.phc.dm.unipi.it/~minnocci"
+languageCode = "it-it"
+title = "Francesco Minnocci"
+author = "Francesco Minnocci"
+theme = "risotto"
+copyright = "© 2023 Francesco Minnocci"
+enableInlineShortcodes = true
+
+[menu]
+  [[menu.main]]
+    identifier = "maths"
+    url = "/maths/"
+    name = "Maths"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "linux"
+    url = "/linux/"
+    name = "Linux"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "music"
+    url = "/music/"
+    name = "Music"
+    weight = 7
+
+  [[menu.main]]
+    identifier = "contacts"
+    url = "/contacts/"
+    name = "Contacts"
+    weight = 10
+
+[params]
+  [params.theme]
+    palette = "gruvbox-dark"
+
+  # Sidebar: social links
+  # Available icon sets:
+  # * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
+  # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
+  [[params.socialLinks]]
+    icon = "fa-brands fa-github"
+    title = "GitHub"
+    url = "https://github.com/bachoseven"
+
+  [[params.socialLinks]]
+    icon = "fa-solid fa-envelope"
+    title = "Email"
+    url = "mailto:f.minnocci@studenti.unipi.it"
+
+  [[params.socialLinks]]
+    icon = "fa-brands fa-spotify"
+    title = "Spotify"
+    url = "https://open.spotify.com/user/francie00"
+
+  [[params.socialLinks]]
+    icon = "fa-brands fa-lastfm"
+    title = "Last FM"
+    url = "https://www.last.fm/user/BachoSeven"
