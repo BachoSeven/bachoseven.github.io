@@ -9,11 +9,12 @@ as an hobby.
 
 ## Scripts
 
-In PHC we maintain a repository containing scripts for the average math department enjoyer:
+In PHC we maintain a [repository](https://git.phc.dm.unipi.it/phc/dm-scripts) containing a few scripts for the average math department enjoyer:
 
-- [printa4](https://github.com/BachoSeven/dotfiles/tree/master/.local/bin/scripts/printa4) lets you print remotely from aula 4 (or any other printer) from your own computer, by opening Okular remotely in a graphical session.
-- [impagina](https://github.com/BachoSeven/dotfiles/tree/master/.local/bin/scripts/impagina) changes the layout of a PDF in order to print it as a booklet.
-- [gobbino](https://github.com/BachoSeven/dotfiles/tree/master/.local/bin/scripts/gobbino) is a magical script for downloading any video or pdf from all of Massimo Gobbino's courses.
+- [printa4](https://git.phc.dm.unipi.it/phc/dm-scripts/raw/branch/main/printa4) lets you print remotely from aula 4 (or any other printer) from your own computer, by opening Okular remotely in a graphical session.
+- [impagina](https://git.phc.dm.unipi.it/phc/dm-scripts/raw/branch/main/impagina) changes the layout of a PDF in order to print it as a booklet.
+- [gobbino](https://git.phc.dm.unipi.it/phc/dm-scripts/raw/branch/main/gobbino) is a magical script for downloading any video or pdf from all of Massimo Gobbino's courses.
+- [pdfcompress](https://git.phc.dm.unipi.it/phc/dm-scripts/raw/branch/main/pdfcompress) compresses a PDF by around 1000% for vectorized documents (quite useful for iPad notes).
 
 ## Articles
 
