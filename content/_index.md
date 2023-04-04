@@ -1,4 +1,4 @@
-# About Me
+# About M
 
 Hi! I'm an undergraduate math student at the university of Pisa, currently interested in:
 
