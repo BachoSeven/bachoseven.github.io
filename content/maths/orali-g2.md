@@ -4,11 +4,11 @@ math: true
 ---
 
 
-- R³ meno due rette. Nei tre casi in cui sono incidenti, parallele o sghembe, chi è il π_1?
+- $\mathbb{R}³$ meno due rette. Nei tre casi in cui sono incidenti, parallele o sghembe, chi è il $π_1$?
 - Chi sono i biolomorfismi da C in C?
 ---
 - Zeri di funzioni olomorfe e Teorema di Rouché.
-- Il gruppo G delle rotazioni generato da quella di angolo 2pi/7 che agisce su R_2. Calcolare il gruppo fondamentale di R_2/G e studiare il rivestimento dato dalla proiezione al quoziente di R_2\{0} su R_2\{0}/G.
+- Il gruppo $G$ delle rotazioni generato da quella di angolo $2\pi/7$ che agisce su $\mathbb{R}^2$. Calcolare il gruppo fondamentale di $\mathbb{R}^2/G$ e studiare il rivestimento dato dalla proiezione al quoziente di $\mathbb{R}^2\setminus\\{0\\}$ su $(\mathbb{R}_2\setminus\\{0\\})/G$.
 - Prodotto numerabile di metrizzabili é metrizzabile e controesempio quando il prodotto é più che numerabile
 ---
 - Forme chiuse e esatte, relazioni tra le due
@@ -16,7 +16,7 @@ math: true
 - Riferimenti proiettivi e teorema fondamentale delle trasformazioni proiettive
 - Retratti, in generale sono chiusi/aperti/nessuno dei due?
 ---
-- Parlare delle singolaritá, weierstrass-casorati, teorema di brouwer, se levo il bordo a D2 è ancora vero il teorema?
+- Parlare delle singolaritá, weierstrass-casorati, teorema di Brouwer, se levo il bordo a $D^2$ è ancora vero il teorema?
 - spazi separabili che implicazioni sai dirmi e dimostrazione
 ---
 - Teorema di Liouville
@@ -29,69 +29,69 @@ math: true
 - Proiettivo complesso è semplicemente connesso, e mappe dalla sfera complessa al proiettivo. Sono rivestimenti?
 ---
 - Connesso non connesso per archi
-- Archi-> connesso
-- [0,1] connesso
-- Olomorfa ->analitica
-- Per quali d interi esiste un rivestimento connesso della superficie di seconda specie di grado d
+- CPA $\implies$ connesso
+- $[0,1]$ connesso
+- Olomorfa $\implies$analitica
+- Per quali $d$ interi esiste un rivestimento connesso della superficie di seconda specie di grado $d$
 ---
-- Sottospazio compatto=>chiuso. Quando e perché. Controesempio se X non è T2.
-- Metrico compatto => limitato. Controesempio a metrico completo limitato => compatto
+- Sottospazio compatto $\implies$ chiuso. Quando e perché. Controesempio se $X$ non è T2.
+- Metrico compatto  $\implies$  limitato. Controesempio a metrico completo limitato  $\implies$  compatto
 - Definizione funzione olomorfa. Se abbiamo una funzione olomorfa su un disco aperto senza il centro, quando si può estendere nel punto?
 - Il toro si retrae al toro senza un dischetto?
 ---
-- Compattezza in spazi metrici. Compatto per successioni=>completo e totalmente limitato (Implicazione a scelta).
+- Compattezza in spazi metrici. Compatto per successioni $\implies$ completo e totalmente limitato (Implicazione a scelta).
 - Ultima domanda dell'esame precedente: Il toro si retrae al toro senza un dischetto?
-- Definizione di funzione analitica e criteri per stabilire se è identicamente nulla su un aperto connesso. Derivate nulle in un punto => identicamente nulla nell'aperto connesso.
+- Definizione di funzione analitica e criteri per stabilire se è identicamente nulla su un aperto connesso. Derivate nulle in un punto  $\implies$  identicamente nulla nell'aperto connesso.
 ---
 - Zeri di una funzione analitica, perché sono un insieme discreto. Come contarli con molteciplità?
 - Definizione di semilocalmente semplicemente connesso + esempio di spazio senza tale proprietà
 ---
 - Invertibiltà locale di olomorfe dove la derivata è non nulla.
 - Dove posso definire una funzione radice quadrata olomorfa?
-- Gruppo fondamentale degli spazi proiettivi su R e su C
+- Gruppo fondamentale degli spazi proiettivi su $\mathbb{R}$ e su $\mathbb{C}$
 ---
 - Punti in posizione generale, trasformazioni proiettive, scelta del punto unità - definizioni
 - Teorema fondamentale trasformazioni proiettive
-- O-O è omotopicamente equivalente a OO ma non un suo retratto per deformazione + il loro pi_1
+- O-O è omotopicamente equivalente a OO ma non un suo retratto per deformazione + il loro $\pi_1$
 - Definizione funzione armonica + ogni armonica è parte reale di una funzione olomorfa su di un semplicemente connesso.
 ---
 - Connessione, connessione per archi e relazione tra le due.
-- [0,1] è connesso
+- $[0,1]$ è connesso
 - funzioni meromorfe, poli di funzioni olomorfe. Dimostrazione teorema di Weiestrass
 ---
 - Esempio di un connesso non connesso per archi
-- Y connesso. Y ⊆ Z ⊆ \bar{Y} => Z connesso
-- Determinare chiusura dell'insieme {0} x [0,1]  ∩ Q in R^2, e di {0} x ]0,1[  ∩ Q in R^2, chi sono i bordi in R^2 di questi insiemi?
+- $Y$ connesso. $Y ⊆ Z ⊆ \overline{Y} \implies Z$ connesso
+- Determinare chiusura dell'insieme $\\{0\\} \times ([0,1] \cap \mathbb{Q})$ in $\mathbb{R}^2$, e di $\\{0\\} \times (]0,1[  \cap \mathbb{Q})$ in $\mathbb{R}^2$, chi sono i bordi in $\mathbb{R}^2$ di questi insiemi?
 - Liouville
 ---
 - Birapporto: definizione, cosa succede se scambio P1 e P2, comportamento con trasf. proiettive
-- Spazi contraibili: definizione, se x_0 ∈ X contraibile allora x_0 ne è retratto per deformazione?
-- Contraibile --> semplicemente connesso
+- Spazi contraibili: definizione, se $x_0 \in X$ contraibile allora $x_0$ ne è retratto per deformazione?
+- Contraibile $\implies$ semplicemente connesso
 - Definizione indice di avvolgimento.
 ---
-- Rivestimento di grado due del wedge di due cerchi e sottogruppo associato nel pi1
-- Relazione tra sottogruppi del pi1, rivestimenti e rivestimento universale.
+- Rivestimento di grado due del wedge di due cerchi e sottogruppo associato nel $\pi_1$
+- Relazione tra sottogruppi del $\pi_1$, rivestimenti e rivestimento universale.
 - Quando ho un automorfismo di rivestimento che manda un punto di una fibra in un altro?
 - Dimostrazione preferita del Teorema Fondamentale dell'Algebra
 ---
 - Definizione funzione olomorfa/analitica e relazione tra le due
-- Olomorfa --> Analitica
+- Olomorfa $\implies$ Analitica
 - Definizione di rivestimento regolare, esibire un rivestimento non regolare.
-- Un biolomorfismo dal disco unitario in sè con f(0) = 0
+- Un biolomorfismo dal disco unitario in sè con $f(0) = 0$
 ---
 - Definizione di rivestimento regolare, esibire un rivestimento non regolare.
 - Principio del massimo modulo
 ---
 - Caratterizzazione degli zeri delle funzioni olomorfe e come contarli con molteplicità
-- p1 : R^2 --> R è aperta/chiusa/propria?
+- $\pi_1 : \mathbb{R}^2 \to \mathbb{R}$ è aperta/chiusa/propria?
 ---
 - Caratterizzare le funzioni intere e bigettive
-- In R^n connesso sse connesso per archi
+- In $\mathbb{R}^n$ connesso sse connesso per archi
 ---
 - Trovare uno spazio connesso ma non connesso per archi.
 - Dimostrare che la chiusura di un connesso è connessa.
 - Definizione di parte interna, chiusura e bordo di un insieme. Queste definizioni dipendono dallo spazio ambiente?
-- Calcolare la chiusura di (0,1) e dei razionali in [0,1] immersi in IR e IR^2.
+- Calcolare la chiusura di $(0,1)$ e dei razionali in $[0,1]$ immersi in $\mathbb{R}$ e $\mathbb{R}^2$.
 - Enunciato e dimostrazione del teorema di Liouville.
 ---
 - Calcolare n-proiettivo reale
@@ -100,19 +100,19 @@ math: true
 ---
 - Parlare di retrazione e retrazione per deformazione, con le conseguenze sui gruppi fondamentali
 - Teorema di Bezout
-- Data F irriducibile di grado d, quanti punti singolari può avere al massimo F? (una stima)
+- Data $F$ irriducibile di grado $d$, quanti punti singolari può avere al massimo $F$? (una stima)
 ---
 - Spazi metrici e caratterizzazione dei compatti per spazi metrici
 - Formula di Cauchy
-- f olomorfa in U\z e limitata in un intorno di z, cosa possiamo dire?
+- $f$ olomorfa in $U\setminus z$ e limitata in un intorno di $z$, cosa possiamo dire?
 ---
 - Definizione di gruppo fondamentale e perché è un gruppo
 - Formula di Cauchy
 ---
 - derivata logaritmica
 - prodotto di due spazi compatti è compatto
-- se il prodotto di due spazi è compatto, è sempre vero che i due spazi sono compatti? (Sì, posso vederli entrambi come immagine continua tramite le proiezioni di X x Y)
+- se il prodotto di due spazi è compatto, è sempre vero che i due spazi sono compatti? (Sì, posso vederli entrambi come immagine continua tramite le proiezioni di $X \times Y$)
 ---
 - Definire l'integrale di forme chiuse su curve continue, accenni di dimostrazione di "integrale su forme chiuse non cambia per curve omotope", un esercizio in cui di fatto serviva la definizione di indice di avvolgimento
-- Un aperto di R^n connesso è connesso per archi, connesso+localmente connesso per archi implica connesso per archi, la connessione per archi è relazione di equivalenza
-- Quanti asintoti può avere al massimo una curva di P^2(C)?
+- Un aperto di $\mathbb{R}^n$ connesso è connesso per archi, connesso+localmente connesso per archi implica connesso per archi, la connessione per archi è relazione di equivalenza
+- Quanti asintoti può avere al massimo una curva di $\mathbb{P}^2(\mathbb{C})$?
