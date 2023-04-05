@@ -5,7 +5,7 @@ math: true
 
 
 - $\mathbb{R}³$ meno due rette. Nei tre casi in cui sono incidenti, parallele o sghembe, chi è il $π_1$?
-- Chi sono i biolomorfismi da C in C?
+- Chi sono i biolomorfismi da $\mathbb{C}$ in $\mathbb{C}$?
 ---
 - Zeri di funzioni olomorfe e Teorema di Rouché.
 - Il gruppo $G$ delle rotazioni generato da quella di angolo $2\pi/7$ che agisce su $\mathbb{R}^2$. Calcolare il gruppo fondamentale di $\mathbb{R}^2/G$ e studiare il rivestimento dato dalla proiezione al quoziente di $\mathbb{R}^2\setminus\\{0\\}$ su $(\mathbb{R}_2\setminus\\{0\\})/G$.
