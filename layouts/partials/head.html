@@ -2,6 +2,8 @@
 {{ with .Site.Params.about }}<meta name="description" content="{{ .description }}">{{ end }}
 {{ if .IsHome }}<meta name="google-site-verification" content="dNEeWzm8w9liFdQzkz9lNrNo7drz_2LnImy25S3eEhE" />{{ end }}
 
+<link rel="shortcut icon" href="{{ "favicon.jpg" | relURL }}">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="UTF-8"/>
 {{ if .Site.Params.noindex }}<meta name="robots" content="noindex" /> {{ end }}
