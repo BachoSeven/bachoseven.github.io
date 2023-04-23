@@ -137,7 +137,7 @@ Tarini:
 - Quanti asintoti può avere al massimo una curva di $\mathbb{P}^2(\mathbb{C})$?
 ---
 - Automorfismi del disco
-- Dato $S^1 \vee S^1$ ed il suo $\pi_1$ generato da $a,b$, trova il rivestimento associato ai sottogruppi $<a>$ ed $N(<a>)$ (con quest'ultimo si intende il sottogruppo normale generato da $a$)
+- Dato $S^1 \vee S^1$ ed il suo $\pi_1$ generato da $a,b$, trova il rivestimento associato ai sottogruppi $\langle a \rangle>$ ed $N(\langle a \rangle)$ (con quest'ultimo si intende il sottogruppo normale generato da $a$)
 ---
 - Quand’è che una funzione propria è chiusa e dimostrazione (più come esercizio che come teoria)
 - Gruppo fondamentale del toro
