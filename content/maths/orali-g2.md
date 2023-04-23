@@ -4,7 +4,7 @@ math: true
 ---
 
 
-- $\mathbb{R}³$ meno due rette. Nei tre casi in cui sono incidenti, parallele o sghembe, chi è il $π_1$?
+- $\mathbb{R}³$ meno due rette. Nei tre casi in cui sono incidenti, parallele o sghembe, chi è il $\pi_1$?
 - Chi sono i biolomorfismi da $\mathbb{C}$ in $\mathbb{C}$?
 ---
 - Zeri di funzioni olomorfe e Teorema di Rouché.
@@ -98,6 +98,25 @@ math: true
 - Olomorfa sse analitica
 - Esercizio sul proiettivo del compito di luglio mi sembra
 ---
+31/05/21
+Palmieri:
+- Spazio delle matrici $nxn$ reali quozientate per azione di coniugio di $\text{GL}_n(\mathbb{R})$. Lo spazio ottenuto è T1, T2?
+- Curva affine in $\mathbb{C}^2$: $y^2=x^3-x$. Qual è la sua chiusura proiettiva? Il supporto affine è denso nel supporto proiettivo? def. di asintoto, calcolo degli asintoti e punti singolari di questa curva. Stima brutale del numero di asintoti di una curva di grado d.
+---
+Pitrone:
+- $f(z)dz$ chiusa $\iff$ $f$ olomorfa
+- Per quali $a$ complessi esiste $f:\mathbb{C}^*\to\mathbb{C}$ olomorfa non identicamente nulla con $f'(z) = a\cdot f(z)/z$?
+- $\mathbb{R}^3$ meno due rette. Nei tre casi in cui sono incidenti, parallele o sghembe, chi è il $\pi_1$?
+---
+Boscardin:
+- Esempio di rivestimento non regolare
+- Per un rivestimento dallo spazio $E$ connesso e localmente connesso per archi: gruppo degli automorfismi transitivo su una fibra $\iff$ l'immersione del $\pi_1(E)$ è normale
+- Trovare tutte le funzioni olomorfe su $\mathbb{C}$ per cui esistono $k$ e $d$ tali che $|f(z)|\leq k\cdot|z|^d$
+---
+Tarini:
+- Gruppo fondamentale di $\mathbb{P}_n(\mathbb{C})$
+- biolomorfismi di $\mathbb{C}$ e del disco aperto
+---
 - Parlare di retrazione e retrazione per deformazione, con le conseguenze sui gruppi fondamentali
 - Teorema di Bezout
 - Data $F$ irriducibile di grado $d$, quanti punti singolari può avere al massimo $F$? (una stima)
@@ -109,10 +128,73 @@ math: true
 - Definizione di gruppo fondamentale e perché è un gruppo
 - Formula di Cauchy
 ---
-- derivata logaritmica
-- prodotto di due spazi compatti è compatto
-- se il prodotto di due spazi è compatto, è sempre vero che i due spazi sono compatti? (Sì, posso vederli entrambi come immagine continua tramite le proiezioni di $X \times Y$)
+- Derivata logaritmica
+- Prodotto di due spazi compatti è compatto
+- Se il prodotto di due spazi è compatto, è sempre vero che i due spazi sono compatti? (Sì, posso vederli entrambi come immagine continua tramite le proiezioni di $X \times Y$)
 ---
 - Definire l'integrale di forme chiuse su curve continue, accenni di dimostrazione di "integrale su forme chiuse non cambia per curve omotope", un esercizio in cui di fatto serviva la definizione di indice di avvolgimento
 - Un aperto di $\mathbb{R}^n$ connesso è connesso per archi, connesso+localmente connesso per archi implica connesso per archi, la connessione per archi è relazione di equivalenza
 - Quanti asintoti può avere al massimo una curva di $\mathbb{P}^2(\mathbb{C})$?
+---
+- Automorfismi del disco
+- Dato $S^1 \vee S^1$ ed il suo $\pi_1$ generato da $a,b$, trova il rivestimento associato ai sottogruppi $<a>$ ed $N(<a>)$ (con quest'ultimo si intende il sottogruppo normale generato da $a$)
+---
+- Quand’è che una funzione propria è chiusa e dimostrazione (più come esercizio che come teoria)
+- Gruppo fondamentale del toro
+- Una funzione olomorfa si può scrivere come serie di potenze
+---
+- Elencare gli assiomi di separazione, dimostrare le varie implicazioni. Dare un controesempio a scelta delle implicazioni metrizzabile $\iff$ normale $\iff$ regolare $\iff$ T2
+- Studiare $f$ olomorfa tale che $|f(z)|\leq k*|z|^d$
+- Teorema di Liouville (con dimostrazione)
+---
+- Un punto è singolare se e solo se il gradiente si annulla.
+- Formula di Cauchy per funzioni olomorfe.
+- Trova un rivestimento di grado 3 del bouquet di due circonferenze
+---
+- Gruppo fondamentale dei proiettivi reali o complessi.
+- Compattezza in spazi metrici.
+- “Esercizio”: caratterizzare le funzioni intere olomorfe iniettive.
+---
+Domande 20/6/2022
+Primo enunciato di Riemann-Weierstrass
+- Calcolare il $\pi_1(S_1)$. ($\cong\mathbb{Z}$)
+- Formula di Cauchy per funzioni olomorfe.
+- $\pi_1(\mathbb{P}^n(\mathbb{R}))$ (discorso generale).
+- Come ottenere $\mathbb{P}^n(\mathbb{R})$ da $D_n$ (dettagliata).
+- Equazione di Cauchy-Riemann.
+- Esempio di funzione continua differenziabile non olomorfa ( $f(z) = \bar{z}$ )
+- Cos’è un punto singolare di una curva proiettiva.
+- Conica singolare $\implies$ degenere con $\mathbb{K} = \mathbb{C}$.
+- Il toro è omeomorfo al toro meno un punto?
+- Chi è il rivestimento universale del toro?
+---
+Marzenta Giovanni:
+- Caratterizzazione dei rivestimenti regolari tramite il 1; un esempio di rivestimento regolare e uno di un rivestimento non regolare per il bouquet di due circonferenze.
+- Caratterizzare le funzioni olomorfe intere (da $\mathbb{C}$ in $\mathbb{C}$) tali che $|f(z)|\leq k\cdot |z|^d$.
+---
+- $X = [0, 1)$, topologia di base: $(a, b)$, con $a > 0$, e $[0, a)\cup(b, 1)$, con $0 < a < b < 1$.
+  È più o meno fine della topologia Euclidea? Assiomi di topologia? Connesso? È compatto? Conosci un compatto famoso che ne è omeomorfo? ($S_1$) Un esempio di tale omeomorfismo? ($t \mapsto e^{2πit}$).
+- Gruppo fondamentale degli spazi proiettivi complessi
+---
+21/6/2022
+- Che relazione c'è tra connessione e connessione per archi? Connesso per archi $\implies$ Connesso (dimostrazione) e Connesso non implica Connesso per archi (dimostrazione).
+- Data $f : U \setminus{z_0} \to C$, punti di singolarità? A riguardo, cosa succede a $\lim_{z\to z_0}{|f(z)|}$?
+- Esempio di funzione con una singolarità essenziale? ($f(z) = e^{1/z}$)
+- Dimostrazione del secondo enunciato di Riemann-Weierstrass
+- X topologico e Y sottoinsieme, se Y e compatto e chiuso, che relazioni ci sono tra compattezza e chiusura?
+- Come calcolare Zeri e Poli di una funzione, eventualmente con molteplicità?
+- Consideriamo la striscia in $\mathbb{R}_2$ tra le rette $x = 0$ e $x = 1$ comprese e quozientiamolo con la relazione $(0, y) \sim (1, -y)$. Come ti immagini questo quoziente? E una varietà topologica?
+  Togliendo il segmento $[0, 1]$, il quoziente è connesso per archi? Qual è il suo gruppo fondamentale? (Calcolarlo).
+- Si può retrarre il nastro di Mobius sul suo bordo?
+- Quanti punti di intersezione può avere al massimo una curva $C = [F]$ in $\mathbb{C}$ con una retta?
+- Come costruiresti uno spazio topologico con gruppo fondamentale $\frac{\mathbb{Z}}{3\mathbb{Z}}$?
+- Prendiamo due triple di rette in $\mathbb{P}^2(\mathbb{C})$, quando è possibile mandare le prime tre nelle seconde tre?
+- Definizione di Topologia Quoziente. Caratterizzazione degli aperti. Prendiamo $X = \mathbb{R}$, $x \sim y$ sse $(x-y) \in \mathbb{Q}$: la topologia quoziente si può descrivere facilmente...
+  Chi sono gli aperti di questa topologia quoziente? (Topologia indiscreta).
+- Definizione di Rivestimento; Condizione su $E$ affinché qualunque rivestimento sia di grado finito.
+- Teorema fondamentale dell’Algebra.
+- Una cubica $C = [p]$, può avere una retta tangente in due punti (no)? Se invece ha grado 4?
+- Teorema di Riemann-Weierstrass.
+---
+- Quali sono le funzioni analitiche che sono in ogni punto è in modulo $\leq k\cdot z^d$ con $d$ fissato? (risposta $a\cdot x^d$ con $|a|\leq |k|$).
+- Se $p: E\to X$ rivestimento universale, è vero che $p^{-1}(S)$ è un rivestimento di $S \subseteq X$? (risposta: sì). Quando $p^{-1}(S)$ è connesso? (assumendo tutto quello che è ragionevole assumere? Risposta: $i_*$ suriettiva, dove $i$ è la mappa di inclusione).
