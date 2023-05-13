@@ -2,6 +2,9 @@
 title: "Maths"
 ---
 
+__In these days the angel of topology and the devil of abstract algebra fight for the soul of each individual mathematical domain__
+~ Hermann Weyl, 1939
+
 # General resources
 
 - LibGen (pdfs of any math book): if you use `8.8.8.8` as your DNS, [this](https://libgen.rs) mirror should work
