@@ -9,25 +9,25 @@ enableInlineShortcodes = true
 [menu]
   [[menu.main]]
     identifier = "maths"
-    url = "/maths/"
+    url = "maths/"
     name = "Maths"
     weight = 1
 
   [[menu.main]]
     identifier = "linux"
-    url = "/linux/"
+    url = "linux/"
     name = "Linux"
     weight = 5
 
   [[menu.main]]
     identifier = "music"
-    url = "/music/"
+    url = "music/"
     name = "Music"
     weight = 7
 
   [[menu.main]]
     identifier = "contacts"
-    url = "/contacts/"
+    url = "contacts/"
     name = "Contacts"
     weight = 10
 
