@@ -43,6 +43,10 @@ A markdown [list](orali-alg2) of past oral exam questions.
 
 Idem as above, a [list](orali-g2) of oral exam questions.
 
+## Ricerca Operativa
+
+Same but "with potatoes": [list](orali-ro).
+
 ## Laboratorio Didattico di Matematica Computazionale
 
 Some **MATLAB** [exercises](https://github.com/BachoSeven/labdidcomp) from the aforementioned course.
