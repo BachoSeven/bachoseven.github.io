@@ -1,4 +1,7 @@
-# Domande RO
+---
+title: "Domande orali Ricerca Operativa"
+math: true
+---
 
 ## Appello Gennaio 2022
 
@@ -10,7 +13,7 @@
 
 ---
 
-- Cosa succede nell'algoritmo del simplesso primale `A_Nxi<=0` e collegamento con il teorema fondamentale della PL.
+- Cosa succede nell'algoritmo del simplesso primale se $A_N \xi<=0$ e collegamento con il teorema fondamentale della PL.
 - Data un'istanza del problema del flusso di costo minimo come stabilire se esistono flussi ammissibili.
 - Modello PLI per il problema ddl commesso viaggiatore.
 
@@ -37,7 +40,7 @@
 - Esempio geometrico di soluzione primale unica e duale degenere
 - Formulazione di TSP in PLI con rilassamento MST
 - Caratterizzazione dell'ottimalità per il problema dei cammini minimi
-- Se so che 3x_1+6x_2+9x_3<=13 è un piano di taglio, allora posso dire che anche x_1+2x_2+3x_3<=4 è un piano di taglio?
+- Se so che $3x_1+6x_2+9x_3<=13$ è un piano di taglio, allora posso dire che anche $x_1+2x_2+3x_3<=4$ è un piano di taglio?
 
 ---
 
@@ -67,14 +70,14 @@
 
 ---
 
-- Dato il problema max x_1+2x_2 soggetto ai vincoli : x_2 \leq 4, x_1 \leq 2, x_1-2x_2 \leq 10, 2x_1 + x_2 \leq 4, -x_1 \leq -4, come decidere da B = {4,5} quale algoritmo utilizzare ?
-- Dimostrare che y(\theta) è una direzione di decrescita nell'algoritmo del simplesso duale
+- Dato il problema $\max(x_1+2x_2)$ soggetto ai vincoli : $$x_2 \leq 4,~x_1 \leq 2,~x_1-2x_2 \leq 10,~2x_1 + x_2 \leq 4,~-x_1 \leq -4,$$ come decidere da $B = {4,5}$ quale algoritmo utilizzare ?
+- Dimostrare che $y(\theta)$ è una direzione di decrescita nell'algoritmo del simplesso duale
 - Flusso massimo - taglio minimo con dimostrazione
-- Data una rete, fornire un algoritmo per trovare il cammino minimo dal nodo s al nodo t supponendo che ogni nodo costi T, con tempi di percorrenza degli archi t_ij ~ t_i',j'
+- Data una rete, fornire un algoritmo per trovare il cammino minimo dal nodo $s$ al nodo $t$ supponendo che ogni nodo costi $T$, con tempi di percorrenza degli archi $t_{ij} , t_{i' j'}$ (??)
 
 ---
 
 - Modello PL del problema di flusso di costo minimo
 - Un flusso ammissibile è di costo minimo se e solo se non esistono cicli amumentanti negativi
 - Modellazione di un problema di cammino minimo "doppio", con due coppie sorgente-destinazione
-- Come cambia il modello se impongo che i cammini (da s1 a t1, da s2 a t2) non abbiano archi in comune?
+- Come cambia il modello se impongo che i cammini (da $s1$ a $t1$, da $s2$ a $t2$) non abbiano archi in comune?

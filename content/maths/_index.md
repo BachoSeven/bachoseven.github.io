@@ -45,7 +45,7 @@ Idem as above, a [list](orali-g2) of oral exam questions.
 
 ## Ricerca Operativa
 
-Same but "with potatoes": [list](orali-ro).
+Same, "with potatoes": [list](orali-ro).
 
 ## Laboratorio Didattico di Matematica Computazionale
 
