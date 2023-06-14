@@ -5,7 +5,7 @@ math: true
 
 - $f:A^m\to A^n$ , cosa possiamo dire su $m,n$?
 - Quando $\text{Supp}(M)$ è vuoto? Uno tra $\text{Supp}(M)$, $\text{Supp}(N)$ vuoto implica $\text{Supp}(M\otimes N)$ vuoto.
-- $\mathbb{K}[x2,x4,...]\to\mathbb{K}[x1,...,x_n]$, come trovo gli ideali contratti?
+- $\mathbb{K}[x_2,x_4,...]\to\mathbb{K}[x_1,...,x_n]$, come trovo gli ideali contratti?
 ---
 - Impostare il discorso sul teorema di struttura sui PID, e unicità.
 - $\mathbb{Z}/2\mathbb{Z}$ come $\mathbb{Z}$-modulo non è piatto. Nei PID piatto sse libero
@@ -14,7 +14,7 @@ math: true
 - Come sono gli ideali monomiali primari?
 ---
 - Relazioni fra dimensione di krull di $A/I$ e di $A/\sqrt{I}$
-- Se $A=\mathbb{K}[x1,...,x_n]$ che relazione c'è fra le loro dimensioni di spazi vettoriali?
+- Se $A=\mathbb{K}[x_1,...,x_n]$ che relazione c'è fra le loro dimensioni di spazi vettoriali?
 - Decomposizione primaria
 - Chi è il prodotto tensoriale di $A/I$ e $A/J$
 - Trovare un anello con esattamente $n$ ideali, senza usare giochetti combinatorici (cioè ad esempio senza sapere la decomposizione in primi)
@@ -23,7 +23,7 @@ math: true
 - Ideali di $S^{-1}A$, corrispondenze, e qualche relazione.
 - Studiare un po’ $\mathbb{Q}[x]$ localizzato in $S=1+J$ con $J =(x^3-1)$.
 - Teorema della base di Hilbert, dimostrazione che ogni base di Gröbner genera, e lemma di Dickson.
-- Sia $I$ ideale di $\mathbb{K}[x1...xn]$ e consideriamo l’insieme degli ideali $Lm(I)$ al variare degli ordinamenti monomiali. Tale insieme è finito?
+- Sia $I$ ideale di $\mathbb{K}[x_1...x_n]$ e consideriamo l’insieme degli ideali $Lm(I)$ al variare degli ordinamenti monomiali. Tale insieme è finito?
 ---
 - Esercizio 2.2 del compito
 - Ideali monomiali: definizione, un polinomio gli appartiene se e solo se ogni suo termine gli appartiene, tappe per mostrare che ogni ideale monomiale è finitamente generato (senza dimostrazione)
