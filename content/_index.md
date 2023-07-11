@@ -2,8 +2,8 @@
 
 Hi! I'm an undergraduate math student at the university of Pisa, currently interested in:
 
-- **Commutative Algebra**
 - **Algebraic/Arithmetic Geometry**
+- **Commutative Algebra**
 - **Category Theory**
 - **Model Theory**
 
