@@ -5,7 +5,6 @@ Hi! I'm an undergraduate math student at the university of Pisa, currently inter
 - **Algebraic/Arithmetic Geometry**
 - **Commutative Algebra**
 - **Category Theory**
-- **Model Theory**
 
 You can find some learning material I've written for myself over the years in the [maths](maths) section of this webpage.
 
