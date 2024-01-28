@@ -2,8 +2,8 @@
 
 Hi! I'm an undergraduate math student at the university of Pisa, currently interested in:
 
-- **Algebraic/Arithmetic Geometry**
-- **Commutative Algebra**
+- **Arithmetic Geometry**
+- **Algebraic Geometry**
 - **Category Theory**
 
 You can find some learning material I've written for myself over the years in the [maths](maths) section of this webpage.
