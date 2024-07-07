@@ -1,5 +1,6 @@
 baseURL = "https://poisson.phc.dm.unipi.it/~minnocci"
-languageCode = "it-it"
+languageCode = "en"
+DefaultContentLanguage = "en"
 title = "Francesco Minnocci"
 author = "Francesco Minnocci"
 theme = "risotto"
@@ -34,6 +35,7 @@ enableInlineShortcodes = true
 [params]
   [params.theme]
     palette = "gruvbox-dark"
+    paletteLight = "gruvbox-light"
 
   # Sidebar: social links
   # Available icon sets:
