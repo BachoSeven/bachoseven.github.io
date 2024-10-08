@@ -11,6 +11,9 @@ __In these days the angel of topology and the devil of abstract algebra fight fo
 - [Overleaf](https://overleaf.com): you probably already know this, but there's a [self-hosted](https://tex.dm.unipi.it/) version of the most popular online LaTeX editor in the
   math department's servers.
 
+# Undergraduate thesis
+Here you can find my bachelor's thesis on [Local Tate Duality](https://github.com/BachoSeven/tesi-lt/blob/build/tesi.pdf), which I wrote under the supervision of prof. [Tamás Szamuely](https://pagine.dm.unipi.it/tamas).
+
 # Courses
 
 Here's some material from my undergrad classes, drop me an email for any glaring mistakes.
